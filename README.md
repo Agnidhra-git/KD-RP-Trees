@@ -16,7 +16,7 @@ This project provides implementations of KD-Tree and RP-Tree data structures for
 + Adds and deletes data points.  
 ### Efficient Search
 + Optimised for fast k-nearest neighbour queries.  
-### Usage
+## Usage
 1. Choose KD-Tree or RP-Tree.  
 2. Load a dataset.  
 3. Build the tree.  
